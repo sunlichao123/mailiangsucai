@@ -91,7 +91,7 @@ Material:
     - _StencilReadMask: 255
     - _StencilWriteMask: 255
     - _TextureHeight: 64
-    - _TextureWidth: 64
+    - _TextureWidth: 128
     - _UnderlayDilate: 1
     - _UnderlayOffsetX: 1
     - _UnderlayOffsetY: 1
